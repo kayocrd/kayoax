@@ -39,16 +39,10 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=Nginx&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=VueJS&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=1575F9)
-![Travis](https://img.shields.io/badge/-Travis-222222?style=flat&logo=Travis&logoColor=1575F9)
-![WordPress](https://img.shields.io/badge/-WordPress-222222?style=flat&logo=WordPress&logoColor=1575F9)
-![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=red)
-![Symfony](https://img.shields.io/badge/-Symfony-222222?style=flat&logo=Symfony)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-222222?style=flat&logo=PHPStorm&logoColor=purple)
 
 ##### Github Status
  <div>
