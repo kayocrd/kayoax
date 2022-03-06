@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ##### Languages I use
 
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![C#](https://img.shields.io/badge/-CSHARP-000000?style=flat&logo=csharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
