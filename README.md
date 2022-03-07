@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kayocrd)
-[![Gmail](https://img.shields.io/badge/-OUTLOOK-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:kayo@outlook.in)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayocrd/)
+[![Outlook](https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white)](mailto:kayo@outlook.in)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayocordeiro/)
 
 ##### Languages I use
 
