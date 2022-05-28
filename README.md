@@ -26,13 +26,6 @@ Here are some ideas to get you started:
 [![Outlook](https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white)](mailto:kayo@outlook.in)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayocordeiro/)
 
-##### Languages I use
-
-![C#](https://img.shields.io/badge/-CSHARP-000000?style=flat&logo=csharp)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=mysql)
 
 ##### Some of the technologies and tools I have worked with
 
@@ -40,7 +33,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=Nginx&logoColor=white&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=VueJS&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=1575F9)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
